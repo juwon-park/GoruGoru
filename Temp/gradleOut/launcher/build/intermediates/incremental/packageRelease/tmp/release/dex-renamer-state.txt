@@ -1,0 +1,4 @@
+#Mon Aug 03 19:46:40 KST 2020
+base.0=D\:\\GoruGoru\\GoruGoruTest3 - copy2 (2)\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6545901a56688c94ea4868d81ae05f89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {instanceID: 0}
+  - CharCam: {instanceID: 0}
+  - Char1: {instanceID: 0}
+  - Char2: {instanceID: 0}
+  - charbutton1: {instanceID: 0}
+  - gocamScreen: {instanceID: 0}
+  - KingOriginalObj: {instanceID: 0}
+  - KingBackHandObj: {instanceID: 0}
+  - KingHandlingObj: {instanceID: 0}
+  - QueenOriginalObj: {instanceID: 0}
+  - QueenBowingObj: {instanceID: 0}
+  - QueenWalkObj: {instanceID: 0}
+  - ServantOriginalObj: {instanceID: 0}
+  - OneServantBowingObj: {instanceID: 0}
+  - ServantHipObj: {instanceID: 0}
+  - SixServantBowingObj: {instanceID: 0}
+  - KingQueenGreetingObj: {instanceID: 0}
+  - AllGreetingObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
